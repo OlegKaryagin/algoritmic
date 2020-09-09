@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 int main() {
 	char symbol;
 	cout << "Enter the symbol"<<endl;
